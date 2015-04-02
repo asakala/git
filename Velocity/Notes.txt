@@ -1,0 +1,5 @@
+Velocity tutorial 
+http://www.javaworld.com/article/2075966/core-java/start-up-the-velocity-template-engine.html
+
+Storing templates in jar
+https://sites.google.com/site/arjunwebworld/Home/programming/velocity-template-engine-java

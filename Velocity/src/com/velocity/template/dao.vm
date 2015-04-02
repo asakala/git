@@ -1,0 +1,11 @@
+package com.velocity;
+
+public class $TableNameDao {
+	
+	public void insert($TableName $TableNameRef){
+		if($TableNameRef == null){
+			throw new IllegalArgumentException("Invalid date for insert");
+		}
+	}
+
+}
